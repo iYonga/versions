@@ -1,67 +1,167 @@
 [
-  {
-    "name": "KEKW",
-    "shortcut": "KEKW",
-    "url": "https://secret-forest.xyz/techemojis/kekw.png"
-  },
-  {
-    "name": "kekwait",
-    "shortcut": "Yup",
-    "url": "https://secret-forest.xyz/techemojis/kekwait.png"
-  },
-  {
-    "name": "troll",
-    "shortcut": "Troll",
-    "url": "https://secret-forest.xyz/techemojis/troll.png"
-  },
-  {
-    "name": "sheep",
-    "shortcut": "Sheep",
-    "url": "https://secret-forest.xyz/techemojis/sheep.gif"
-  },
-  {
-    "name": "wazoo",
-    "shortcut": "Wazoo",
-    "url": "https://secret-forest.xyz/techemojis/wazoo.png"
-  },
-  {
-    "name": "doggo",
-    "shortcut": "Doggo",
-    "url": "https://secret-forest.xyz/techemojis/doggo.png"
-  },
-  {
-    "name": "grin",
-    "shortcut": "Grin",
-    "url": "https://secret-forest.xyz/techemojis/grin.png"
-  },
-  {
-    "name": "danskedi",
-    "shortcut": "Yup",
-    "url": "https://secret-forest.xyz/techemojis/danskedi.gif"
-  },
-  {
-    "name": "cildir",
-    "shortcut": "Yup",
-    "url": "https://secret-forest.xyz/techemojis/cildir.gif"
-  },
-  {
-    "name": "loading",
-    "shortcut": "Yup",
-    "url": "https://secret-forest.xyz/techemojis/loading.gif"
-  },
-  {
-    "name": "hehe",
-    "shortcut": "Yup",
-    "url": "https://secret-forest.xyz/techemojis/hehe.gif"
-  },
-  {
-    "name": "pepedance",
-    "shortcut": "Yup",
-    "url": "https://secret-forest.xyz/techemojis/pepedance.gif"
-  },
-  {
-    "name": "skull",
-    "shortcut": "Yup",
-    "url": "https://secret-forest.xyz/techemojis/skull.png"
-  }
+    {
+        "name": "catpleading1",
+        "shortcut": "catpleading1",
+        "url": "https://secret-forest.xyz/techemojis/catpleading1.png"
+    },
+    {
+        "name": "catpleading2",
+        "shortcut": "catpleading2",
+        "url": "https://secret-forest.xyz/techemojis/catpleading2.png"
+    },
+    {
+        "name": "cjsmiling",
+        "shortcut": "cjsmiling",
+        "url": "https://secret-forest.xyz/techemojis/cjsmiling.png"
+    },
+    {
+        "name": "eyescry",
+        "shortcut": "eyescry",
+        "url": "https://secret-forest.xyz/techemojis/eyescry.png"
+    },
+    {
+        "name": "eyeshmm",
+        "shortcut": "eyeshmm",
+        "url": "https://secret-forest.xyz/techemojis/eyeshmm.png"
+    },
+    {
+        "name": "eyessus",
+        "shortcut": "eyessus",
+        "url": "https://secret-forest.xyz/techemojis/eyessus.png"
+    },
+    {
+        "name": "harold1",
+        "shortcut": "harold1",
+        "url": "https://secret-forest.xyz/techemojis/harold1.png"
+    },
+    {
+        "name": "harold2",
+        "shortcut": "harold2",
+        "url": "https://secret-forest.xyz/techemojis/harold2.png"
+    },
+    {
+        "name": "okjoy",
+        "shortcut": "okjoy",
+        "url": "https://secret-forest.xyz/techemojis/okjoy.gif"
+    },
+    {
+        "name": "pepeno",
+        "shortcut": "pepeno",
+        "url": "https://secret-forest.xyz/techemojis/pepeno.gif"
+    },
+    {
+        "name": "peperain",
+        "shortcut": "peperain",
+        "url": "https://secret-forest.xyz/techemojis/peperain.gif"
+    },
+    {
+        "name": "pepesadge",
+        "shortcut": "pepesadge",
+        "url": "https://secret-forest.xyz/techemojis/pepesadge.png"
+    },
+    {
+        "name": "pepewow",
+        "shortcut": "pepewow",
+        "url": "https://secret-forest.xyz/techemojis/pepewow.gif"
+    },
+    {
+        "name": "popcat",
+        "shortcut": "popcat",
+        "url": "https://secret-forest.xyz/techemojis/popcat.gif"
+    },
+    {
+        "name": "rollingeyes",
+        "shortcut": "rollingeyes",
+        "url": "https://secret-forest.xyz/techemojis/rollingeyes.png"
+    },
+    {
+        "name": "toexplode",
+        "shortcut": "toexplode",
+        "url": "https://secret-forest.xyz/techemojis/toexplode.png"
+    },
+    {
+        "name": "trollsiyah",
+        "shortcut": "trollsiyah",
+        "url": "https://secret-forest.xyz/techemojis/trollsiyah.gif"
+    },
+    {
+        "name": "wazoo2",
+        "shortcut": "wazoo2",
+        "url": "https://secret-forest.xyz/techemojis/wazoo2.png"
+    },
+    {
+        "name": "windows10",
+        "shortcut": "windows10",
+        "url": "https://secret-forest.xyz/techemojis/windows10.png"
+    },
+    {
+        "name": "windows98",
+        "shortcut": "windows98",
+        "url": "https://secret-forest.xyz/techemojis/windows98.png"
+    },
+    {
+        "name": "KEKW",
+        "shortcut": "KEKW",
+        "url": "https://secret-forest.xyz/techemojis/kekw.png"
+    },
+    {
+        "name": "kekwait",
+        "shortcut": "Yup",
+        "url": "https://secret-forest.xyz/techemojis/kekwait.png"
+    },
+    {
+        "name": "troll",
+        "shortcut": "Troll",
+        "url": "https://secret-forest.xyz/techemojis/troll.png"
+    },
+    {
+        "name": "sheep",
+        "shortcut": "Sheep",
+        "url": "https://secret-forest.xyz/techemojis/sheep.gif"
+    },
+    {
+        "name": "wazoo",
+        "shortcut": "Wazoo",
+        "url": "https://secret-forest.xyz/techemojis/wazoo.png"
+    },
+    {
+        "name": "doggo",
+        "shortcut": "Doggo",
+        "url": "https://secret-forest.xyz/techemojis/doggo.png"
+    },
+    {
+        "name": "grin",
+        "shortcut": "Grin",
+        "url": "https://secret-forest.xyz/techemojis/grin.png"
+    },
+    {
+        "name": "danskedi",
+        "shortcut": "Yup",
+        "url": "https://secret-forest.xyz/techemojis/danskedi.gif"
+    },
+    {
+        "name": "cildir",
+        "shortcut": "Yup",
+        "url": "https://secret-forest.xyz/techemojis/cildir.gif"
+    },
+    {
+        "name": "loading",
+        "shortcut": "Yup",
+        "url": "https://secret-forest.xyz/techemojis/loading.gif"
+    },
+    {
+        "name": "hehe",
+        "shortcut": "Yup",
+        "url": "https://secret-forest.xyz/techemojis/hehe.gif"
+    },
+    {
+        "name": "pepedance",
+        "shortcut": "Yup",
+        "url": "https://secret-forest.xyz/techemojis/pepedance.gif"
+    },
+    {
+        "name": "skull",
+        "shortcut": "Yup",
+        "url": "https://secret-forest.xyz/techemojis/skull.png"
+    }
 ]
