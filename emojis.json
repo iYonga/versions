@@ -100,16 +100,6 @@
         "url": "https://secret-forest.xyz/techemojis/wazoo2.png"
     },
     {
-        "name": "windows10",
-        "shortcut": "windows10",
-        "url": "https://secret-forest.xyz/techemojis/windows10.png"
-    },
-    {
-        "name": "windows98",
-        "shortcut": "windows98",
-        "url": "https://secret-forest.xyz/techemojis/windows98.png"
-    },
-    {
         "name": "KEKW",
         "shortcut": "KEKW",
         "url": "https://secret-forest.xyz/techemojis/kekw.png"
@@ -180,6 +170,11 @@
         "url": "https://secret-forest.xyz/techemojis/pepe-dab.png"
     },
     {
+        "name": "windows98",
+        "shortcut": "windows98",
+        "url": "https://secret-forest.xyz/techemojis/windows98.png"
+    },
+    {
         "name": "winxp",
         "shortcut": "windowsxp",
         "url": "https://secret-forest.xyz/techemojis/winxp.png"
@@ -203,6 +198,11 @@
         "name": "win8.1",
         "shortcut": "windows8.1",
         "url": "https://secret-forest.xyz/techemojis/win8.1.png"
+    },
+    {
+        "name": "windows10",
+        "shortcut": "windows10",
+        "url": "https://secret-forest.xyz/techemojis/windows10.png"
     },
     {
         "name": "vadaa",
