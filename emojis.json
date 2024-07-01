@@ -160,14 +160,19 @@
         "url": "https://secret-forest.xyz/techemojis/pepedance.gif"
     },
     {
-        "name": "skull",
-        "shortcut": "skull",
-        "url": "https://secret-forest.xyz/techemojis/skull.png"
-    },
-    {
         "name": "pepedab",
         "shortcut": "pepedab",
         "url": "https://secret-forest.xyz/techemojis/pepe-dab.png"
+    },
+    {
+        "name": "<3",
+        "shortcut": "<3",
+        "url": "https://ahmet.visu.studio/3.png"
+    },
+    {
+        "name": "skull",
+        "shortcut": "skull",
+        "url": "https://secret-forest.xyz/techemojis/skull.png"
     },
     {
         "name": "windows98",
